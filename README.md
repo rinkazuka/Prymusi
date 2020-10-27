@@ -1,1 +1,3 @@
 # Prymusi
+tu bedzie ropozytorium
+:)
